@@ -52,24 +52,14 @@ Un grand titre par soulignement
 [right]Texte algné à droite[/right]
 
 <p class="text-center">Texte centré</p>
-```text-left¦text-center¦text-right¦text-justify```
+```text-left,text-center,text-right,text-justify```
 
 Texte normal suivi d’un [color=#26B260]texte coloré en vert[/color] dans un paragraphe.
 Texte normal suivi d’un <span style="color: #26B260">texte coloré en vert</span> dans un paragraphe.
-```
-    text-muted
-    text-primary
-    text-info
-    text-success
-    text-warning
-    text-danger
-    bg-primary
-    bg-info
-    bg-success
-    bg-warning
-    bg-danger
 
-```
+```text-muted, text-primary, text-info, text-success, text-warning, text-danger,
+    bg-primary,     bg-info,     bg-success,     bg-warning,     bg-danger```
+
 Texte normal suivi d’un <span class="bg-info text-success">texte coloré en vert sur fond bleu</span> dans un paragraphe.
 
     [fa=firefox /]
