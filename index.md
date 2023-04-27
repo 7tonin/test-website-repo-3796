@@ -1,6 +1,8 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Ici test Scribouilli
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+La page **Exemple Markdown** expérimente la liste des possibilités telles qu'édictées par la page d'aide Markdown de framasoft. Tout ne fonctionne pas, mais il y a déjà de quoi faire bien.
+Apprenez donc plutôt Markdown avec [ce guide](https://flus.fr/)
+![Le logo de Flus](https://cftw.ddns.ms/yaya/arfreefr/climat-energie/no-excess.jpg)
