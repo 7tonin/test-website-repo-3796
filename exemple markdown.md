@@ -27,8 +27,9 @@ et texte au survol d'une souris
 
 * une élément
 * un autre
- * un sous élément
- * un autre sous élément
+  * un sous élément
+  * un autre sous élément
+    * avec un sous sous élément (si si)
 * un dernier élément
 
 1. élément un
