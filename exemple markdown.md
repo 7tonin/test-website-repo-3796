@@ -62,7 +62,9 @@ Texte normal suivi d’un <span style="color: #26B260">texte coloré en vert</sp
 
 Texte normal suivi d’un <span class="bg-info text-success">texte coloré en vert sur fond bleu</span> dans un paragraphe.
 
-    [fa=firefox /]
-    [fa=firefox extras=fa-2x /]
-    [[fa=firefox extras=fa-3x /] Avec un lien](https://www.mozilla.org/fr/firefox/new/)
-    [fa=firefox extras=fa-4x,fa-spin /]
+[fa=firefox /]
+[fa=firefox extras=fa-2x /]
+[[fa=firefox extras=fa-3x /] Avec un lien](https://www.mozilla.org/fr/firefox/new/)
+[fa=firefox extras=fa-4x,fa-spin /]
+
+~~fin~~
